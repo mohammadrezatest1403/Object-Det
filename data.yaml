@@ -1,0 +1,5 @@
+path: C:/Users/CommandNest/Desktop/ObjectDetection/dataset
+train: images/train
+val: images/val
+nc: 2
+names: ['class_0', 'class_1']
